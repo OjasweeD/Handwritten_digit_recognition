@@ -1,7 +1,7 @@
 # Handwritten digit recognition using convolutional neural network.
 The objective of this project is to build a image-classifier using Convolutional Neural Networks to accurately categorize the handwritten digits. The data for this project can be found <a href="http://yann.lecun.com/exdb/mnist/">here</a> and the files are expected to be stored in the folder "/data/" relative to the repository.
 
-# Convolutional Nerual Networks (CNNs)
+# Convolutional Neural Networks (CNNs)
 Convolutional Neural Networks are a special type of neural networks which are very effective in image recognition and classification. They are powerful as they make use of spatial relationships among the features.
 <br>
 <br>

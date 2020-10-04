@@ -1,4 +1,4 @@
-name: C:\Users\Shashank\Anaconda3\envs\mnist-cnn
+name: C:\Users\Ojaswee\Anaconda3\envs\mnist-cnn
 channels:
 - anaconda-fusion
 - defaults
@@ -70,5 +70,5 @@ dependencies:
   - scikit-image==0.13.0
   - tensorflow==1.2.0
   - werkzeug==0.12.2
-prefix: C:\Users\Shashank\Anaconda3\envs\mnist-cnn
+prefix: C:\Users\Ojaswee\Anaconda3\envs\mnist-cnn
 

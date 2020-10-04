@@ -70,4 +70,4 @@ First off, the images should be converted to greyscale. This is fairly obvious i
 Secondly, all the images should be resized to (28,28) for the same reason mentioned above.
 <br>
 <br>
-Now, you're ready to make predictions on custom images!
+Now, we're ready to make predictions on custom images!
